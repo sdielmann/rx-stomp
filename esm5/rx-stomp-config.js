@@ -6,6 +6,10 @@
  *
  * Part of `@stomp/rx-stomp`
  */
-export class RxStompConfig {
-}
+var RxStompConfig = /** @class */ (function () {
+    function RxStompConfig() {
+    }
+    return RxStompConfig;
+}());
+export { RxStompConfig };
 //# sourceMappingURL=rx-stomp-config.js.map

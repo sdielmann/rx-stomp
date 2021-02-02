@@ -57,7 +57,7 @@
     "webpack-rxjs-externals": "^2.0.0",
     "websocket": "^1.0.26"
   },
-  "module": "./esm6/index.js",
+  "module": "./esm5/index.js",
   "main": "bundles/rx-stomp.umd.js",
   "typings": "index.d.ts",
   "sideEffects": false
